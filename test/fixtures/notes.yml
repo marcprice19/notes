@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  author: MyString
+  titile: MyString
+  message: MyText
+  age: 1
+
+two:
+  author: MyString
+  titile: MyString
+  message: MyText
+  age: 1
